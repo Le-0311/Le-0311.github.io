@@ -1,0 +1,38 @@
+@media screen and (min-width:769px) and (max-width:992px) {
+   
+    .part2 {
+     width: 80%; 
+    }
+    .hello {
+        font-size: 14px;
+    }
+    .menu {
+        gap: unset
+    }
+    .parent-infor {
+        width: 50px;
+    }
+    .bground-1 {
+        margin-right: unset;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .bground {
+        margin-left: unset;
+        padding-left: 10px;
+        padding-right: 10px;
+    } 
+    .main-content{
+        height: 405px;
+    }
+    
+    .bground-1 {
+        margin-right: 150px;
+    }
+    .bground {
+        margin-left: 150px;
+    }
+    .banner {
+        line-height: 40px;
+    }
+}
